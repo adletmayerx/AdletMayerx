@@ -12,7 +12,7 @@ I'm currently based in Ufa. I'm learning web-dev at [@Yandex.Praktikum](https://
 <img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### Some code stats from February 1:
+#### Some code stats:
 
 [![wakatime](https://wakatime.com/badge/user/3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f.svg)](https://wakatime.com/@3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f)
 
