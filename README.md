@@ -1,5 +1,7 @@
 ### Hello World, I'm Artour 👋 and I'm Frontend Developer
-I'm currently based in Ufa. I'm learning web-dev at [@Yandex.Praktikum](https://praktikum.yandex.ru/web/).
+I'm currently based in Ufa and learning web-dev at [@Yandex.Praktikum](https://praktikum.yandex.ru/web/).
+In my free time i enjoy fitness and biohackig. Looking forward to make waves in dev-sea.
+Feel free to ask me anything about web-development, i'm sure we will figure it out!
 #### Things I code with:
 
 <p>
