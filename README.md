@@ -15,6 +15,10 @@ Feel free to ask me anything about web-development, i'm sure we will figure it o
 <img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+### How to reach me:
+
+Telegramm: https://t.me/sadrtdinov_a
+
 #### Some code stats:
 
 [![wakatime](https://wakatime.com/badge/user/3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f.svg)](https://wakatime.com/@3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f)
