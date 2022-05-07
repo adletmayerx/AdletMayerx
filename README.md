@@ -12,7 +12,6 @@ Feel free to ask me anything about web-development, i'm sure we will figure it o
 <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-42b983?style=flat-square&logo=nextjs&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=node&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-bf4080?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
