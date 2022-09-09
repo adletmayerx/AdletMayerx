@@ -21,8 +21,6 @@ Telegramm: https://t.me/sadrtdinov_a
 
 #### Some code stats:
 
-[![wakatime](https://wakatime.com/badge/user/3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f.svg)](https://wakatime.com/@3b4ec4f7-eab5-4db3-b53c-a23a0b0bc26f)
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadrtdinov&layout=compact)
+<figure><embed src="https://wakatime.com/share/@asadrtdinov/003773a5-31f3-4382-98fd-49e93831db92.svg"></embed></figure>
 
 ![Profile views](https://gpvc.arturio.dev/asadrtdinov)  
