@@ -21,6 +21,4 @@ Telegramm: https://t.me/artur_webdev
 
 #### Some code stats:
 
-<figure><embed src="https://wakatime.com/share/@asadrtdinov/003773a5-31f3-4382-98fd-49e93831db92.svg"></embed></figure>
-
 ![Profile views](https://gpvc.arturio.dev/asadrtdinov)  
