@@ -18,7 +18,3 @@ Feel free to ask me anything about web-development, i'm sure we will figure it o
 ### How to reach me:
 
 Telegramm: https://t.me/artur_webdev
-
-#### Some code stats:
-
-![Profile views](https://gpvc.arturio.dev/asadrtdinov)  
